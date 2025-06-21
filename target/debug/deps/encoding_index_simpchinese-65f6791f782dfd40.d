@@ -1,0 +1,9 @@
+/Users/mohtashimnawaz/Desktop/student_grade_reporter/target/debug/deps/libencoding_index_simpchinese-65f6791f782dfd40.rmeta: /Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/mohtashimnawaz/Desktop/student_grade_reporter/target/debug/deps/libencoding_index_simpchinese-65f6791f782dfd40.rlib: /Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/mohtashimnawaz/Desktop/student_grade_reporter/target/debug/deps/encoding_index_simpchinese-65f6791f782dfd40.d: /Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs:
+/Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs:
+/Users/mohtashimnawaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs:

@@ -1,0 +1,8 @@
+[package]
+name = "student_grade_reporter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+genpdf = "0.2.0"
+font-kit = "0.7.0"
